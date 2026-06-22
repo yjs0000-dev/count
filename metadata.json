@@ -1,0 +1,6 @@
+{
+  "name": "Number Counting 1 to 10",
+  "description": "An interactive counting game for children to learn numbers 1 to 10 with voice guidance and joyful sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
